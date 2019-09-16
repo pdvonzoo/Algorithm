@@ -29,3 +29,4 @@
 1. [최대공약수와 최소공배수](https://gist.github.com/pdvonzoo/dee914f9205cb60436a347c5c135cae3)
 1. [콜라츠 추측](https://gist.github.com/pdvonzoo/195b4692498181cb8e0f1deffdd0f08a)
 1. [평균 구하기](https://gist.github.com/pdvonzoo/bab12ecbc9b0e853ef31daa2e5bfc21c)
+1. [하샤드 수](https://gist.github.com/pdvonzoo/4931640161f57f8ffaaa4c1f4000acba)
