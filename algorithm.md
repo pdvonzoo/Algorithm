@@ -13,4 +13,4 @@
 1. [문자열 내 p와 y의 개수](https://gist.github.com/pdvonzoo/f6120a18bcc5aa7c9df983a0639a2ac4)
 1. [문자열 내림차순으로 정렬하기](https://gist.github.com/pdvonzoo/c854b1b47c1e4d2575d0616f743dc49b)
 1. [문자열 다루기 기본](https://gist.github.com/pdvonzoo/b0090d66f814c008db350e9d30225d5b)
-1. [서울에서 김서방 ](https://gist.github.com/pdvonzoo/94094d438890597921de6fe360af0044)
+1. [서울에서 김서방 찾기](https://gist.github.com/pdvonzoo/94094d438890597921de6fe360af0044)
