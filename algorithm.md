@@ -10,3 +10,4 @@
 1. [나누어 떨어지는 배열](https://gist.github.com/pdvonzoo/c604a305c0e9573aadaaea466acc02e8)
 1. [두 정수 사이의 합](https://gist.github.com/pdvonzoo/2b248be0945baf573456343fd7f73470)
 1. [문자열 내 마음대로 정렬하기](https://gist.github.com/pdvonzoo/e2c5d314e7ff6fb584cb87c3e2e02635)
+1. [문자열 내 p와 y의 개수](https://gist.github.com/pdvonzoo/f6120a18bcc5aa7c9df983a0639a2ac4)
