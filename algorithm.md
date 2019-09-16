@@ -27,3 +27,4 @@
 1. [제일 작은 수 제거하기](https://gist.github.com/pdvonzoo/52a964286428e5636a8516d9758452c9)
 1. [짝수와 홀수](https://gist.github.com/pdvonzoo/1d23dd7ffdd276df24607131191b2095)
 1. [최대공약수와 최소공배수](https://gist.github.com/pdvonzoo/dee914f9205cb60436a347c5c135cae3)
+1. [콜라츠 추측](https://gist.github.com/pdvonzoo/195b4692498181cb8e0f1deffdd0f08a)
