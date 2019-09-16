@@ -32,3 +32,4 @@
 1. [하샤드 수](https://gist.github.com/pdvonzoo/4931640161f57f8ffaaa4c1f4000acba)
 1. [핸드폰 번호 ](https://gist.github.com/pdvonzoo/a95e6fd4d0cebcdd49a60dce0b61e346)
 1. [행렬의 덧셈](https://gist.github.com/pdvonzoo/e4cbf06590d5273ce3e6d47acc3c95db)
+1. [x만큼 간격이 있는 n개의 숫자](https://gist.github.com/pdvonzoo/ab22a93f8a3dfc7ce85fc3d0bdbc2154)
