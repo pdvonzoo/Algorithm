@@ -7,3 +7,4 @@
 1. [2016년](https://gist.github.com/pdvonzoo/0d7f3385f185969d59cc8bc1d7dfe5f4)
 1. [가운데 글자 가져오기](https://gist.github.com/pdvonzoo/3063124326560e239653c8e3f74e1a2b)
 1. [같은 숫자는 싫어](https://gist.github.com/pdvonzoo/28b7b54e0f485cad53549fb9c886337c)
+1. [나누어 떨어지는 배열](https://gist.github.com/pdvonzoo/c604a305c0e9573aadaaea466acc02e8)
