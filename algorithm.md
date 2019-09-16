@@ -24,3 +24,4 @@
 1. [자릿수 뒤집어 배열로 만들기](https://gist.github.com/pdvonzoo/1fa4ad9edb025a83b67bcdfc8187bf6e)
 1. [정수 내림차순으로 배치하기](https://gist.github.com/pdvonzoo/b982e2a90c9edf2790ddb295a2986b55)
 1. [정수 제곱근 판별](https://gist.github.com/pdvonzoo/28f9a44d8e02aef325a8eac0264db73d)
+1. [제일 작은 수 제거하기](https://gist.github.com/pdvonzoo/52a964286428e5636a8516d9758452c9)
