@@ -12,3 +12,4 @@
 1. [문자열 내 마음대로 정렬하기](https://gist.github.com/pdvonzoo/e2c5d314e7ff6fb584cb87c3e2e02635)
 1. [문자열 내 p와 y의 개수](https://gist.github.com/pdvonzoo/f6120a18bcc5aa7c9df983a0639a2ac4)
 1. [문자열 내림차순으로 정렬하기](https://gist.github.com/pdvonzoo/c854b1b47c1e4d2575d0616f743dc49b)
+1. [문자열 다루기 기본](https://gist.github.com/pdvonzoo/b0090d66f814c008db350e9d30225d5b)
