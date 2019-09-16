@@ -22,3 +22,4 @@
 1. [이상한 문자 만들기](https://gist.github.com/pdvonzoo/dff0af3bfc3ab615a925f2e906ebc83d)
 1. [자릿수 더하기](https://gist.github.com/pdvonzoo/db95fdf55c5666ac6cd55259099222c0)
 1. [자릿수 뒤집어 배열로 만들기](https://gist.github.com/pdvonzoo/1fa4ad9edb025a83b67bcdfc8187bf6e)
+1. [정수 내림차순으로 배치하기](https://gist.github.com/pdvonzoo/b982e2a90c9edf2790ddb295a2986b55)
