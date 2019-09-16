@@ -19,3 +19,4 @@
 1. [문자열을 정수로 바꾸기](https://gist.github.com/pdvonzoo/6f54980cd4a87da1da3f6209b077415e)
 1. [시저암호](https://gist.github.com/pdvonzoo/7614bd0af5f6a02317c4d6f09410368e)
 1. [약수의 합](https://gist.github.com/pdvonzoo/a9b2e9b389f7439eb62990ce7020bc73)
+1. [이상한 문자 만들기](https://gist.github.com/pdvonzoo/dff0af3bfc3ab615a925f2e906ebc83d)
