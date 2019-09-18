@@ -1,6 +1,6 @@
 ## 정렬
 
-- 버블 정렬(bubble sort)[https://gist.github.com/pdvonzoo/cfcef2eecf3dbcf53144131ec3790191]
+- [버블 정렬(bubble sort)](https://gist.github.com/pdvonzoo/cfcef2eecf3dbcf53144131ec3790191)
 - 선택 정렬(selection sort)
 - 삽입 정렬(insertion sort)
 - 합병 정렬(merge sort)
