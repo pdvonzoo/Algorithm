@@ -10,20 +10,20 @@
 - 힙 정렬(heap sort)
 - 위상 정렬(topological sort)
 
-# 자료구조
+## 자료구조
 
-## 스택(Stack
-## 큐(Queue)
-## Singly Linked List
-## Doubly Linked List
-## 힙(heap)
-## 트리(Tree)
-## BST
-## BFS
-## DFS
-## 해쉬 테이블
-## 그래프(Graph)
-## 그래프 탐색
+- 스택(Stack
+- 큐(Queue)
+- Singly Linked List
+- Doubly Linked List
+- 힙(heap)
+- 트리(Tree)
+- BST
+- BFS
+- DFS
+- 해쉬 테이블
+- 그래프(Graph)
+- 그래프 탐색
 
 그래프 탐색 - 깊이 우선 탐색(DFS)이란
 그래프 탐색 - 너비 우선 탐색(BFS)이란
