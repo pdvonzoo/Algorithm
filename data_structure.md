@@ -1,7 +1,7 @@
 ## 정렬
 
 - [버블 정렬(bubble sort)](https://gist.github.com/pdvonzoo/cfcef2eecf3dbcf53144131ec3790191)
-- 선택 정렬(selection sort)
+- [선택 정렬(selection sort)](https://gist.github.com/pdvonzoo/b091dc627e09766e4f86b634966f7fb0)
 - 삽입 정렬(insertion sort)
 - 합병 정렬(merge sort)
 - 퀵 정렬(quick sort)
