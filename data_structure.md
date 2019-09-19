@@ -13,7 +13,7 @@
 ## 재귀
 
 - [power](https://gist.github.com/pdvonzoo/7323319d790c0f774f5658ca9ee9dfc0)
-
+- [factorial](https://gist.github.com/pdvonzoo/84af78ebd6972cd02e6fbf002b32184e)
 
 ## 자료구조
 
