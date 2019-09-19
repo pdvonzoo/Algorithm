@@ -14,6 +14,7 @@
 
 - [power](https://gist.github.com/pdvonzoo/7323319d790c0f774f5658ca9ee9dfc0)
 - [factorial](https://gist.github.com/pdvonzoo/84af78ebd6972cd02e6fbf002b32184e)
+- [productOfArray](https://gist.github.com/pdvonzoo/eee8dc3cbde738a12efe66347de6a7de)
 
 ## 자료구조
 
