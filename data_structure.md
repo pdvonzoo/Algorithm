@@ -18,6 +18,7 @@
 - [recursiveRange](https://gist.github.com/pdvonzoo/8fa8f241cf693933524f420f5f598f4c)
 - [fib](https://gist.github.com/pdvonzoo/4e81fa475272f36197777f54a80fe34e)
 - [reverseString](https://gist.github.com/pdvonzoo/032994ff982399b4682ea3655c439f28)
+- [isPalindrome](https://gist.github.com/pdvonzoo/48b667a6aaa183b29f04247f1acfe380)
 
 ## 자료구조
 
