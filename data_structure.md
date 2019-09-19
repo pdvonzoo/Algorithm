@@ -25,6 +25,7 @@
 - [nestedEvenSum](https://gist.github.com/pdvonzoo/cd9e46cd90326f50fbbd2a5beb220b3d)
 - [capitalizeWords](https://gist.github.com/pdvonzoo/ee17da81428eef7c5ab08f596f3f6c4e)
 - [stringifyNumbers](https://gist.github.com/pdvonzoo/0a6dad68faa0896fbadc122d1b769a52)
+- [collectStrings](https://gist.github.com/pdvonzoo/d8bf972b08a76ff5097544ae8ce36d46)
 
 ## 자료구조
 
