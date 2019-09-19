@@ -12,6 +12,7 @@
 
 ## 재귀
 
+- [power](https://gist.github.com/pdvonzoo/7323319d790c0f774f5658ca9ee9dfc0)
 
 
 ## 자료구조
