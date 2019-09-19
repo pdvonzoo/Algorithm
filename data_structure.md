@@ -16,7 +16,7 @@
 - [factorial](https://gist.github.com/pdvonzoo/84af78ebd6972cd02e6fbf002b32184e)
 - [productOfArray](https://gist.github.com/pdvonzoo/eee8dc3cbde738a12efe66347de6a7de)
 - [recursiveRange](https://gist.github.com/pdvonzoo/8fa8f241cf693933524f420f5f598f4c)
-
+- [fib](https://gist.github.com/pdvonzoo/4e81fa475272f36197777f54a80fe34e)
 
 ## 자료구조
 
