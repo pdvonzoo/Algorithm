@@ -24,6 +24,7 @@
 - [capitalizeFirst](https://gist.github.com/pdvonzoo/8d6e416fbf8a2199c5708b3eeb345fb0)
 - [nestedEvenSum](https://gist.github.com/pdvonzoo/cd9e46cd90326f50fbbd2a5beb220b3d)
 - [capitalizeWords](https://gist.github.com/pdvonzoo/ee17da81428eef7c5ab08f596f3f6c4e)
+- [stringifyNumbers](https://gist.github.com/pdvonzoo/0a6dad68faa0896fbadc122d1b769a52)
 
 ## 자료구조
 
