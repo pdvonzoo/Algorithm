@@ -30,6 +30,7 @@
 ## Searching Algorithms
 
 - [linearSearch](https://gist.github.com/pdvonzoo/f365936b436feb78f84315b0fc1ebaae)
+- [binarySearch](https://gist.github.com/pdvonzoo/094d97f89d3893e86a06d0c4f6f18106)
 
 ## 자료구조
 
