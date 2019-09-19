@@ -27,6 +27,10 @@
 - [stringifyNumbers](https://gist.github.com/pdvonzoo/0a6dad68faa0896fbadc122d1b769a52)
 - [collectStrings](https://gist.github.com/pdvonzoo/d8bf972b08a76ff5097544ae8ce36d46)
 
+## Searching Algorithms
+
+- [linearSearch](https://gist.github.com/pdvonzoo/f365936b436feb78f84315b0fc1ebaae)
+
 ## 자료구조
 
 - 스택(Stack
