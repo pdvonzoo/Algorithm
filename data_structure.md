@@ -21,6 +21,7 @@
 - [isPalindrome](https://gist.github.com/pdvonzoo/48b667a6aaa183b29f04247f1acfe380)
 - [someRecursive](https://gist.github.com/pdvonzoo/b17f097c23264474d17b6db66b50f2ff)
 - [flatten](https://gist.github.com/pdvonzoo/5293fe8ad27190c44065b7ea98546021)
+- [capitalizeFirst](https://gist.github.com/pdvonzoo/8d6e416fbf8a2199c5708b3eeb345fb0)
 
 ## 자료구조
 
