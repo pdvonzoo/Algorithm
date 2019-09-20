@@ -35,3 +35,7 @@
 1. [x만큼 간격이 있는 n개의 숫자](https://gist.github.com/pdvonzoo/ab22a93f8a3dfc7ce85fc3d0bdbc2154)
 1. [직사각형 별찍기](https://gist.github.com/pdvonzoo/864ab7513bb5c65c1c2fe5ec5e53df89)
 1. [예산](https://gist.github.com/pdvonzoo/680f09ccf30c76d1de9f96f17ee62fcd)
+
+## 프로그래머스 DFS/BFS
+
+1. [타겟넘버](https://gist.github.com/pdvonzoo/a2d2d520cc461c6f14f08649e54f9314)
