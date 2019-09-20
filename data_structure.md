@@ -40,7 +40,7 @@
 - Doubly Linked List
 - 힙(heap)
 - 트리(Tree)
-- BST
+- [BST](https://gist.github.com/pdvonzoo/b8973f658ccdee44546776eb6e2ae8b2)
 - BFS
 - DFS
 - 해쉬 테이블
