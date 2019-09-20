@@ -39,8 +39,7 @@
 - Singly Linked List
 - Doubly Linked List
 - 힙(heap)
-- 트리(Tree)
-- [BST, BFS](https://gist.github.com/pdvonzoo/b8973f658ccdee44546776eb6e2ae8b2)
+- 트리(Tree) - [BST, BFS](https://gist.github.com/pdvonzoo/b8973f658ccdee44546776eb6e2ae8b2)
 - DFS
 - 해쉬 테이블
 - 그래프(Graph)
