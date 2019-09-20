@@ -40,7 +40,7 @@
 - Doubly Linked List
 - 힙(heap)
 - 트리(Tree) - [BST, BFS, DFS](https://gist.github.com/pdvonzoo/b8973f658ccdee44546776eb6e2ae8b2)
-- 그래프(Graph) - DFS, BFS
+- 그래프(Graph) - [DFS, BFS](https://gist.github.com/pdvonzoo/f8d38f2f57e3452a5b613009daac9657)
 - 해쉬 테이블
 
 그래프 탐색 - 깊이 우선 탐색(DFS)이란
