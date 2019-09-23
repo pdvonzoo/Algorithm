@@ -4,7 +4,7 @@
 - [선택 정렬(selection sort)](https://gist.github.com/pdvonzoo/b091dc627e09766e4f86b634966f7fb0)
 - [삽입 정렬(insertion sort)](https://gist.github.com/pdvonzoo/84d8a605dba6fef1d6730c3b04b7938f)
 - [합병 정렬(merge sort)](https://gist.github.com/pdvonzoo/ebba75f31b7680c2568d656ea844f2b3)
-- 퀵 정렬(quick sort)
+- [퀵 정렬(quick sort)](https://gist.github.com/pdvonzoo/297f5f3bbbfd77f53a3a8c7bc38fc5ce)
 - Radix sort
 - 셸 정렬(shell sort)
 - 힙 정렬(heap sort)
