@@ -47,17 +47,12 @@
 - 해쉬 테이블
 - 다이나믹 프로그래밍
   - [피보나치](https://gist.github.com/pdvonzoo/c5e8fa387c800f56b2dc793a8d669e70)
+- -Dijkstra 알고리즘](https://gist.github.com/pdvonzoo/1cd662efdadc41aaec0589f757d40568)
 
-
-## 최소 비용 신장 트리(MST, Minimum Spanning Tree) 알고리즘
-
-## 신장 트리(Spanning Tree)
-## Kruskal 알고리즘
-## Prim 알고리즘
-
-## 최단 경로(Shortest Path) 알고리즘
-
-## Dijkstra 알고리즘
-## Floyd 알고리즘
+- 최소 비용 신장 트리(MST, Minimum Spanning Tree) 알고리즘
+- 신장 트리(Spanning Tree)
+- Kruskal 알고리즘
+- Prim 알고리즘
+- Floyd 알고리즘
 
 
