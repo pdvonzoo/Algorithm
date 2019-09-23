@@ -39,7 +39,10 @@
 - Singly Linked List
 - Doubly Linked List
 - 힙(heap)
-- 트리(Tree) - [BST, BFS, DFS](https://gist.github.com/pdvonzoo/b8973f658ccdee44546776eb6e2ae8b2)
+- 트리(Tree) 
+  - [BST, BFS, DFS](https://gist.github.com/pdvonzoo/b8973f658ccdee44546776eb6e2ae8b2)
+  - [BinaryHeap](https://gist.github.com/pdvonzoo/d95d35450022e729929b859cea2a70f1)
+    - [priorityQueue](https://gist.github.com/pdvonzoo/7cc2b868c2934e32269d9cf0a03dbd21)
 - 그래프(Graph) - [DFS, BFS](https://gist.github.com/pdvonzoo/f8d38f2f57e3452a5b613009daac9657)
 - 해쉬 테이블
 - 다이나믹 프로그래밍
