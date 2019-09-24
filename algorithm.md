@@ -48,3 +48,4 @@
 ## 프로그래머스 스택/큐
 
 1. [프린터](https://gist.github.com/pdvonzoo/f0a65f7773ff022bfee34ccaf98ff919)
+1. [탑](https://gist.github.com/pdvonzoo/f49b26c0699cdc61fe6cb9be8873212b)
