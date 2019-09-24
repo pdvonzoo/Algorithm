@@ -44,3 +44,7 @@
 ## 프로그래머스 정렬
 
 1. [H-Index](https://gist.github.com/pdvonzoo/cf1b2a3a2a658978b7d2c345e1aa5bb7)
+
+## 프로그래머스 스택/큐
+
+1. [프린터](https://gist.github.com/pdvonzoo/f0a65f7773ff022bfee34ccaf98ff919)
