@@ -60,3 +60,4 @@
 ## 프로그래머스 힙
 
 1. [디스크 컨트롤러-테스트 19번만 틀림](https://gist.github.com/pdvonzoo/7bb61faa483cbb21eb040cfa423073f0)
+1. [이중 우선 순위 큐](https://gist.github.com/pdvonzoo/5b62c5bbbd70c50aeb9394d7c1ca9cc4)
