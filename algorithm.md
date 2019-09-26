@@ -56,3 +56,7 @@
 ## 프로그래머스 해쉬
 
 1. [베스트 앨범](https://gist.github.com/pdvonzoo/b8798f27d580468d83718f2615093227)
+
+## 프로그래머스 힙
+
+1. [디스크 컨트롤러-테스트 19번만 틀림](https://gist.github.com/pdvonzoo/7bb61faa483cbb21eb040cfa423073f0)
