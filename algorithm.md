@@ -65,3 +65,4 @@
 ## 프로그래머스 완전탐색
 
 1. [소수 찾기](https://gist.github.com/pdvonzoo/05036f9204aa902bfac44897cae6db27)
+1. [카펫](https://gist.github.com/pdvonzoo/ec41ee231079758f1487d67912bddf04)
