@@ -71,3 +71,4 @@
 
 1. [BinaryGap](https://gist.github.com/pdvonzoo/9536ad1f0a8b30691325b7628b1e5fa3) ([Report](https://app.codility.com/demo/results/trainingK4ETQG-BKC/))
 1. [OddOccurrencesInArray](https://gist.github.com/pdvonzoo/bc56b72a7d7c2f3b181f4dd8f40c9754) ([Report](https://app.codility.com/demo/results/trainingT4TBWZ-M7A/))
+1. [CyclicRotation](https://gist.github.com/pdvonzoo/62126d7c7ae627f8843ca446b982dcec) ([Report](https://app.codility.com/demo/results/trainingJ9GTEZ-JK2/))
