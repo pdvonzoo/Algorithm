@@ -74,3 +74,4 @@
 1. [CyclicRotation](https://gist.github.com/pdvonzoo/62126d7c7ae627f8843ca446b982dcec) ([Report](https://app.codility.com/demo/results/trainingJ9GTEZ-JK2/))
 1. [FrogJmp](https://gist.github.com/pdvonzoo/3f0de3a97f4aeeeda673fb63003c8441) ([Report](https://app.codility.com/demo/results/trainingDFWNGR-JZ9/))
 1. [PermMissingElem](https://gist.github.com/pdvonzoo/d79d2e7a91df23228070a6a6d78eee75) ([Report](https://app.codility.com/demo/results/trainingQH6YD6-KHH/))
+1. [TapeEquilibrium](https://gist.github.com/pdvonzoo/4ebdcf7fc957f6369c723fa0963720b4) ([Report](https://app.codility.com/demo/results/trainingGJYA54-3KF/))
