@@ -69,4 +69,4 @@
 
 ## Codility
 
-1. [BinaryGap](https://gist.github.com/pdvonzoo/9536ad1f0a8b30691325b7628b1e5fa3)
+1. [BinaryGap](https://gist.github.com/pdvonzoo/9536ad1f0a8b30691325b7628b1e5fa3) [Report](https://app.codility.com/demo/results/trainingK4ETQG-BKC/)
