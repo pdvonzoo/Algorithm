@@ -77,3 +77,4 @@
 1. [TapeEquilibrium](https://gist.github.com/pdvonzoo/4ebdcf7fc957f6369c723fa0963720b4) ([Report](https://app.codility.com/demo/results/trainingGJYA54-3KF/))
 1. [PermCheck](https://gist.github.com/pdvonzoo/f0d84ab9589b7e9570326b5ac01804a4) ([Report](https://app.codility.com/demo/results/training6YCCZX-95Z/))
 1.[FrogRiverOne](https://gist.github.com/pdvonzoo/64a2f19cdfc052d1de00104baae4056e) ([Report](https://app.codility.com/demo/results/training28RK9M-MGX/))
+1. [MaxCounters](https://gist.github.com/pdvonzoo/64234516eed955f5a044ce1d6ee33a77) ([Report](https://app.codility.com/demo/results/trainingBBGZ5S-8QS/))
