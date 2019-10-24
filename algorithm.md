@@ -84,3 +84,4 @@
 1. [MinAvgTwoSlice](https://gist.github.com/pdvonzoo/b4f114e09e0f3e62a2bb62f4c5923a1a) ([Report](https://app.codility.com/demo/results/training3GVADF-XPG/))
 1. [CountDiv](https://gist.github.com/pdvonzoo/1c374103613ad9c558f7365d446af3f4) ([Report](https://app.codility.com/demo/results/trainingF4WDQU-PVV/))
 1. [MaxProductOfThree](https://gist.github.com/pdvonzoo/8efdc32da70efa76bfdceff20658ce89) ([Report](https://app.codility.com/demo/results/trainingQA3ZA5-XB6/))
+1. [Distinct](https://gist.github.com/pdvonzoo/118547dd0288dd619cd7d090eb3cb32b) ([Report](https://app.codility.com/demo/results/trainingVK2TB8-HG4/))
