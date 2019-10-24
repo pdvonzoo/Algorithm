@@ -82,3 +82,4 @@
 1. [PassingCars](https://gist.github.com/pdvonzoo/6712706838ecc2f58994d8d436f5ff03) ([Report](https://app.codility.com/demo/results/trainingA2VYUJ-XEY/))
 1. [GenomicRangeQuery](https://gist.github.com/pdvonzoo/c9679846dee8ac0236968ae96acd1b1c) ([Report](https://app.codility.com/demo/results/training5JXB6N-6KF/))
 1. [MinAvgTwoSlice](https://gist.github.com/pdvonzoo/b4f114e09e0f3e62a2bb62f4c5923a1a) ([Report](https://app.codility.com/demo/results/training3GVADF-XPG/))
+1. [CountDiv](https://gist.github.com/pdvonzoo/1c374103613ad9c558f7365d446af3f4) ([Report](https://app.codility.com/demo/results/trainingF4WDQU-PVV/))
