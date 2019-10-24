@@ -86,3 +86,4 @@
 1. [MaxProductOfThree](https://gist.github.com/pdvonzoo/8efdc32da70efa76bfdceff20658ce89) ([Report](https://app.codility.com/demo/results/trainingQA3ZA5-XB6/))
 1. [Distinct](https://gist.github.com/pdvonzoo/118547dd0288dd619cd7d090eb3cb32b) ([Report](https://app.codility.com/demo/results/trainingVK2TB8-HG4/))
 1. [Triangle](https://gist.github.com/pdvonzoo/e8d7711d67b478c557fb9cd8fe468ee3) ([Report](https://app.codility.com/demo/results/trainingGC22NJ-AQS/))
+1. [NumberOfDiscIntersections](https://gist.github.com/pdvonzoo/6b799e919c5a4e12c270d2e34e00cc30) ([Report](https://app.codility.com/demo/results/training3S74Z9-3TY/))
