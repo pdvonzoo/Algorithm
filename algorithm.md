@@ -88,3 +88,4 @@
 1. [Triangle](https://gist.github.com/pdvonzoo/e8d7711d67b478c557fb9cd8fe468ee3) ([Report](https://app.codility.com/demo/results/trainingGC22NJ-AQS/))
 1. [NumberOfDiscIntersections](https://gist.github.com/pdvonzoo/6b799e919c5a4e12c270d2e34e00cc30) ([Report](https://app.codility.com/demo/results/training3S74Z9-3TY/))
 1. [Brackets](https://gist.github.com/pdvonzoo/5e6cefd9bec6cca30db8a3517d56977a) ([Report](https://app.codility.com/demo/results/trainingF4M9PZ-CMZ/))
+1. [Nesting](https://gist.github.com/pdvonzoo/f9f364eec2376fa3567a650a9a959fdd) ([Report](https://app.codility.com/demo/results/trainingKQ7ZJC-FET/))
