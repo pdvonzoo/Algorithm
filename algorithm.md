@@ -89,3 +89,4 @@
 1. [NumberOfDiscIntersections](https://gist.github.com/pdvonzoo/6b799e919c5a4e12c270d2e34e00cc30) ([Report](https://app.codility.com/demo/results/training3S74Z9-3TY/))
 1. [Brackets](https://gist.github.com/pdvonzoo/5e6cefd9bec6cca30db8a3517d56977a) ([Report](https://app.codility.com/demo/results/trainingF4M9PZ-CMZ/))
 1. [Nesting](https://gist.github.com/pdvonzoo/f9f364eec2376fa3567a650a9a959fdd) ([Report](https://app.codility.com/demo/results/trainingKQ7ZJC-FET/))
+1. [StoneWall](https://gist.github.com/pdvonzoo/b30c071ee903f3ad5ce06a770dc3f98d) ([Report](https://app.codility.com/demo/results/trainingQ6N64A-DCA/))
