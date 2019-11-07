@@ -92,3 +92,4 @@
 1. [StoneWall](https://gist.github.com/pdvonzoo/b30c071ee903f3ad5ce06a770dc3f98d) ([Report](https://app.codility.com/demo/results/trainingQ6N64A-DCA/))
 1. [Dominator](https://gist.github.com/pdvonzoo/abd2e77ec9677e81e154de5b75a89e50) ([Report](https://app.codility.com/demo/results/trainingM6BQB2-GV7/))
 1. [MaxSliceSum](https://gist.github.com/pdvonzoo/bdabd1530666180e8768b582266b99d3) ([Report](https://app.codility.com/demo/results/trainingNBSDE8-CKN/))
+1. [Fish](https://gist.github.com/pdvonzoo/989f7f7c58d83e03c0987d4b1fa1d731) ([Report](https://app.codility.com/demo/results/training9HHFXK-RUU/))
