@@ -67,6 +67,10 @@
 1. [소수 찾기](https://gist.github.com/pdvonzoo/05036f9204aa902bfac44897cae6db27)
 1. [카펫](https://gist.github.com/pdvonzoo/ec41ee231079758f1487d67912bddf04)
 
+## 프로그래머스 그래프
+
+1. [가장 먼 노드](https://gist.github.com/pdvonzoo/c515b9fc668f87b52a9f4bd97d5a4cc8)
+
 ## Codility
 
 1. [BinaryGap](https://gist.github.com/pdvonzoo/9536ad1f0a8b30691325b7628b1e5fa3) ([Report](https://app.codility.com/demo/results/trainingK4ETQG-BKC/))
